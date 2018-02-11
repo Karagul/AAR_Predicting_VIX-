@@ -1,0 +1,7 @@
+spx <- getYFData("^GSPC", as.Date("2007-01-01"), as.Date("2017-01-01"))
+spx <- getYFData("^GSPC", as.Date("2007-01-01"), as.Date("2017-01-01"))
+head(spx)
+getYFData()
+getYFData()
+getYFData
+spx <- getYFData("^GSPC", as.Date("2007-01-01"), as.Date("2017-01-01"))
